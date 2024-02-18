@@ -1,0 +1,17 @@
+{
+    "name": "rmdevx/test-session-members",
+    "autoload": {
+        "psr-4": {
+            "Rmdevx\\TestSessionMembers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ramil Danchinov",
+            "email": "xrealcode@ya.ru"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*"
+    }
+}
